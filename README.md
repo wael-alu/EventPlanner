@@ -20,4 +20,4 @@ Sigue estos pasos para poner en marcha el proyecto localmente:
 
 1. Clona el repositorio desde GitHub:
    ```bash
-   git clone https://github.com/usuario/eventplanner.git
+   git clone https://github.com/wael-alu/EventPlanner.git
